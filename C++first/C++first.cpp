@@ -32,6 +32,7 @@ void main()
 	yang.zwjs();
 	GirFriend zhang("卢本伟",20,"开挂");//传参实例化对象
 	zhang.zwjs();
+	cout << "github修改上传";
 	getchar();
 }
 #endif
