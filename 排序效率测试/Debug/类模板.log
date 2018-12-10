@@ -1,0 +1,4 @@
+﻿E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(类模板.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  排序效率.cpp
+c:\users\administrator\source\repos\类模板\排序效率.cpp(168): warning C4326: “main”的返回类型应为“int”而非“void”
+  类模板.vcxproj -> C:\Users\Administrator\source\repos\类模板\Debug\排序效率测试.exe
